@@ -28,7 +28,7 @@ git config --global user.name 'Kostya Rubinsky'
 
 git config --global user.email 'mail@mail.com'
 
-
+___
 удалить файл из очереди на изменение
 
 git rm --cached имяфайла
